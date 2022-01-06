@@ -1,0 +1,1 @@
+Atualização do bot para funcionar após o update do dia 05-01-2022
